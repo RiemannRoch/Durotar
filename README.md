@@ -1,6 +1,6 @@
 # Durotar
 
-Welcome to Project Durotar!
+Welcome to Durotar Project!
 
 This is the n-th attempt to write down all the relevant examples and exercises of the book "Computer Science: An Interdisciplinary Approach", from Kevin Waynes and Robert Sedgewick.
 
