@@ -22,6 +22,17 @@ public class RelativelyPrime {
             }
         }
 
+        System.out.print("  \t");
+        for (int j = 1; j < n; j++) {
+            if (j < 10) {
+                System.out.print(j + "  ");
+            } else {
+                System.out.print(j + " ");
+            }
+        }
+        System.out.println();
+
+
         for (int i = 1; i < n; i++) {
             System.out.print(i + ":\t");
             for (int j = 1; j < n; j++) {
