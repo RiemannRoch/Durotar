@@ -25,7 +25,7 @@ public class ShuffleTest {
 
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < m; j++) {
-                System.out.print(table[i][j] + "\t");
+                System.out.print(table[i][j]+ "\t");
             }
             System.out.println();
         }
