@@ -17,9 +17,8 @@ public class MusicShuffling {
                 int temp = a[i];
                 a[i] = a[k];
                 a[k] = temp;
-            }
-            for (int i = 1; i < n; i++) {
-                if (a[i] == a[i - 1] + 1) {
+
+                if (i > 0 && a[i] == a[i - 1] + 1) {
                     counter++;
                     break;
                 }
