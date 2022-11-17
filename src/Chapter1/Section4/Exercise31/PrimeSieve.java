@@ -1,6 +1,6 @@
 package Chapter1.Section4.Exercise31;
 
-
+// This program takes aprox 14s to execute with n = 10^9
 public class PrimeSieve {
 
     public static void main( String[] args ) {
